@@ -32,8 +32,8 @@ liveness checks.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Abdulazeez332/face-attendance-system.git
+cd face-attendance-system
 ```
 
 ### 2. Download the dlib model files
